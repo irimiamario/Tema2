@@ -43,33 +43,18 @@ Min. one OUTER JOIN (1p)
 
 
 ●
-Create the following two files, save
-them
-into
-a
-ZIP
-archive, and upload the
-archive.
+Create the following two files, save them into a ZIP archive, and upload the archive.
 
 ●
-Name the archive as
-HW-DB_Intro-Vasile_Popescu.zip, where Vasile Popescu is your name.
+Name the archive as HW-DB_Intro-Vasile_Popescu.zip, where Vasile Popescu is your name.
 
 ●
 File 1:
-Export the database in a
-.
-sql
-file
-–
-all the SQL queries that would
-replicate an identical database on another station must be included.
+Export the database in a .sql file – all the SQL queries that would replicate an identical database on another station must be included.
 
 ●
 File 2:
-Write the CRUD & JOIN queries enlisted before in a
-queries.txt
-file.
+Write the CRUD & JOIN queries enlisted before in a queries.txt file.
 
 ●
 Note! Each homework is unique. Let
