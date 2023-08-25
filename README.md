@@ -1,5 +1,11 @@
 # Tema2
 
+Create
+a
+database containing the
+tables
+presented in the above diagram
+
 ● Required constraints: (4p)
 
 ○
@@ -47,14 +53,7 @@ archive.
 
 ●
 Name the archive as
-HW
--
-DB_Intro
--
-Vasile_Popescu.zip
-, where
-Vasile
-Popescu is your name.
+HW-DB_Intro-Vasile_Popescu.zip, where Vasile Popescu is your name.
 
 ●
 File 1:
