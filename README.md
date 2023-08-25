@@ -1,11 +1,16 @@
 # Tema2
 
 Table Person ( +name: str, +phoneNumber: str, +emailAddress: str, +purchaseParkingPass() ) 
+
 Table Student ( +studentNumber: int, +averageMark: int, +isEligibleToEnroll(str): bool, +getSeminarsTaken(): int )
+
 Table Professor ( /salary: int, #staffNumber: int, -yearsOfService: int, +numberOfClasses: int )
+
 Table Address ( +street: str, +city: str, +state: str, +postalCode: int, +country: str, -validate(): bool, +outputAsLabel(): str )
 
+
 Table Person has a relationship of 0..1 lives at 1 with Table Address.
+
 Table Student has a relationship of 0..* supervises 1..5 Table Professor.
 
 
@@ -36,6 +41,9 @@ Create a database containing the tables presented in the above diagram
 
 
 ● Create the following two files, save them into a ZIP archive, and upload the archive.
+
 ● Name the archive as HW-DB_Intro-Vasile_Popescu.zip, where Vasile Popescu is your name.
+
 ● File 1: Export the database in a .sql file – all the SQL queries that would replicate an identical database on another station must be included.
+
 ● File 2: Write the CRUD & JOIN queries enlisted before in a queries.txt file.
