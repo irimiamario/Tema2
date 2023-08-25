@@ -1,12 +1,14 @@
 # Tema2
 
 ● Required constraints: (4p)
+
 ○
 Primary keys mandatory for every table (1p)
 ○
 Add foreign keys where necessarily (1p)
 ○
 Two compound keys are required (2p)
+
 ●
 Run at least the following queries: (6p)
 ○
